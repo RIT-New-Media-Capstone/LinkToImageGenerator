@@ -1,2 +1,4 @@
 # LinkToImageGenerator
-Input a link, get a description of the page as well as an image 
+The user supplies a link, 
+
+The API returns a word-limited description about the page, which is then sent back to an image generator through the API.
